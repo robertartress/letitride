@@ -1,7 +1,7 @@
 var playerData = [
   {
-    title: "PLACEHOLDER_SONG_TITLE",
-    file: "PLACEHOLDER_FILENAME",
+    title: "Let It Ride [Master_v1]",
+    file: "Let It Ride [Master_v1].flac",
     howl: null
   }
   // Add more tracks as needed
